@@ -9,19 +9,19 @@
 ```cd```
 
 #### lists the contents of a directory
-```ls
+```ls```
 	
 #### create a shortcut to another command or name to execute a long string.
-alias
+```alias```
 
 #### create a directory
-mkdir
+```mkdir```
 
 #### copy a file or directory
-cp
+```cp```
 
 #### removes or deletes a file or directory
-rm
+```rm```
 
 #### moves or renames a file or directory
-mv
+```mv```
