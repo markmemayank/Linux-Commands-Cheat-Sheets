@@ -25,3 +25,23 @@
 
 #### moves or renames a file or directory
 ```mv```
+
+## Directory Navigation and Listing
+
+#### change to home directory
+```cd```
+	
+#### go up to parent directory
+```cd ..```
+
+#### change to subdirectory subdir
+```cd subdir```	
+
+#### list content of current directory
+```ls```
+
+#### list content with details
+```ls -l```	
+
+#### list content including hidden files
+```ls -a```	
