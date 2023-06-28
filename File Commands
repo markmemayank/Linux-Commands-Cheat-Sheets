@@ -1,0 +1,31 @@
+## File Commands
+
+### cp src dest	
+copy src file to dest file
+
+cp -r sDir dDir	
+copy “recursively” sDir directory to dDir directory (copies subdirectories too)
+
+mv src dest	
+move – renames src as dest
+
+rm fileName	
+removes file fileName
+
+rm -r dirName	
+removes directory recursively
+
+rmdir dirName	
+removes empty dirName
+
+mkdir dirName	
+makes directory called dirName
+
+chmod 750 file1	
+change permission of file1 by specifying a three digit octal # where digits are owner, group, world each octal digit in binary are: read (4) ,write (2) ,execute (1)
+
+cat file1	
+display file1 to screen
+
+less file1	
+display file1 with pagination (space – next page, q-exit, ↑,↓- keys)
