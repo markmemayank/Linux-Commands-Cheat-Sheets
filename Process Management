@@ -1,0 +1,5 @@
+Process Management
+
+ps	- List processes with pid
+top	- Shows the real-time processes
+kill -9 pid	- Kills the process with pid #
