@@ -1,0 +1,7 @@
+Keyboard Shortcuts
+
+<tab>	- Auto-complete partial file name
+<ctrl> + c	- Kill current command/program
+<ctrl>+z	- Sleep current program
+<↑>	- Recall previous command(s)
+<ctrl>+d	- log-off and close terminal
